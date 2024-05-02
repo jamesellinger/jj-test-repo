@@ -1,12 +1,5 @@
-# Main Title
+This is a paragraph that consist only of one line.
 
- ...
-
-## Section Title 1
-
- ...
-
-### Subsection Title
-
- ...
-## Section Title 2
+Here comes another paragraph
+with multiple lines.
+And multiple sentences.
