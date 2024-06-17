@@ -30,3 +30,15 @@ The film that I saw [[(that)|those|these|then]] night wasn’t very good.
 It was all [[ about ]] a man [[ who ]] built a
 time machine so he [[ could ]] travel back in time.
 It took him ages and ages [[ to ]] build the machine.
+
+
+### Python Code
+
+``` python
+import time
+# Quick, count to ten!
+for i in range(10):
+    # (but not *too* quick)
+    time.sleep(0.5)
+    print(i)
+```
