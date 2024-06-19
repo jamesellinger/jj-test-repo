@@ -1,19 +1,21 @@
-# Main Title
+# Welcome!
 
  This is my test project using liascript
 
-## Section Title 1
+## Overview of this course
 
  In this section we will learn about...
 
-### Subsection Title
+### The history of Apple Computers
 
  In 1984 a computer was smashed in front of an audience of millions of people!
- 
-## Section Title 2
-  日本語
 
-## Table
+ It was Steve Job's joke to the world!
+ 
+## The Japanese Language
+  日本語が大好き！
+
+## Test with a Table
 
 | Animal          | weight in kg | Lifespan years | Mitogen |
 | --------------- | ------------:| --------------:| -------:|
@@ -22,6 +24,7 @@
 | Brown bat       |        0.020 |             30 |      10 |
 | Sheep           |           90 |             12 |      95 |
 | Human           |           68 |             70 |      10 |
+| Gorilla         |           83 |              56|      10 |
 
 ## Quiz test
 
@@ -37,7 +40,7 @@ It took him ages and ages [[ to ]] build the machine.
 ``` python
 import time
 # Quick, count to ten!
-for i in range(10):
+for i in range(17):
     # (but not *too* quick)
     time.sleep(0.5)
     print(i)
