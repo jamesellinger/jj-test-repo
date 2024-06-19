@@ -29,7 +29,7 @@
 ## Quiz test
 
 {{English Male |>}}
-The film that I saw [[(that)|those|these|then]] night wasn’t very good.
+The film I saw [[(that)|those|these|then]] night wasn’t very good.
 It was all [[ about ]] a man [[ who ]] built a
 time machine so he [[ could ]] travel back in time.
 It took him ages and ages [[ to ]] build the machine.
