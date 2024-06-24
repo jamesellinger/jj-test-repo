@@ -4,7 +4,7 @@
 
 ## Overview of this course
 
- In this section we will learn about...
+ In this section we will learn about... hobbits!
 
 ### The history of Apple Computers
 
@@ -24,7 +24,8 @@
 | Brown bat       |        0.020 |             30 |      10 |
 | Sheep           |           90 |             12 |      95 |
 | Human           |           68 |             70 |      10 |
-| Gorilla         |           83 |              56|      10 |
+| Gorilla         |           83 |             56 |      10 |
+| Aardvark        |           22 |             33 |       5 |
 
 ## Quiz test
 
