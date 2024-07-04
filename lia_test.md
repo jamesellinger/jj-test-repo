@@ -36,7 +36,9 @@ time machine so he [[ could ]] travel back in time.
 It took him ages and ages [[ to ]] build the machine.
 
 
-### Python Code
+## Python Code
+
+Press the button in the upper right corner of the code block to copy the code to the clipboard.
 
 ``` python
 import time
